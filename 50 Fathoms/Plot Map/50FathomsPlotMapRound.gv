@@ -1,0 +1,397 @@
+digraph G {
+
+//root=Cuwayo;
+//overlap=scale;
+//overlap=false;
+//layout=sfdp;
+
+layout=dot;
+rankdir="LR";
+//ranksep =2;
+
+fontname = Arial;
+fontsize = 20;
+
+//size ="10,20";
+ratio=4;
+
+// the main arc
+node [shape=record,color=black,style=filled,fillcolor=chartreuse3,fontname = Arial]
+Maiden_Voyage [label = "{Maiden Voyage|110|}"]
+Tressa_the_Red [label = "{Tressa the Red|113|}"]
+The_Fire_Mage [label = "{The Fire Mage|116|}"]
+Water_Trap [label = "{Water Trap|119|}"]
+The_Juror [label = "{The Juror|121|}"]
+The_Prince [label = "{The Prince|121|}"]
+Fit_for_a_King [label = "{Fit for a King|123|}"]
+Heart_of_the_Archmage [label = "{Heart of the Archmage|125|}"]
+The_Devils_Cross [label = "{The Devil's Cross|127|}"]
+
+
+
+Maiden_Voyage:e -> Tressa_the_Red:w
+Tressa_the_Red:e -> The_Fire_Mage:w
+The_Fire_Mage:e ->  Water_Trap:w
+Water_Trap:e -> The_Juror:w
+The_Juror:e -> The_Prince:w
+The_Prince:e -> Fit_for_a_King:w
+Fit_for_a_King:e -> Heart_of_the_Archmage:w
+Heart_of_the_Archmage:e -> The_Devils_Cross:w
+
+// the golden triangle arc
+node [shape=record,fillcolor=gold3]
+An_Unnatural_Storm [label = "{An Unnatural Storm|152|}"]
+Treasure_for_the_Taking [label = "{Treasure for the Taking|154|}"]
+The_Money_Pit [label = "{The Money Pit|156|}"]
+The_Butcher [label = "{The Butcher|157|}"]
+Defend_the_Village [label = "{Defend the Village|162|}"]
+Treasure_Map [label = "{Treasure Map|171|}"]
+Polly_Want_Some_Treasure [label = "{Polly Want Some Treasure?|174|}"]
+Gallows_Humor [label = "{Gallows Humor|179|}"]
+The_Curse_of_Redbeard_Rufus [label = "{The Curse of Redbeard Rufus|179|}"]
+
+
+
+
+// the other tales and locations
+node [shape=record,color=black,style=filled,fillcolor=grey95]
+Wreck_of_the_Carcanus [label = "{Wreck of the Carcanus|151|}"]
+The_Low_Down [label = "{The Low Down|157|}"]
+The_Arkanaus [label = "{The Arkanaus|129|}"]
+Ghost_Ship [label = "{Ghost Ship|129|}"]
+The_White_Whale [label = "{The White Whale|130|}"]
+Rescue_Mission [label = "{Rescue Mission|130|}"]
+The_Whirlpool [label = "{The Whirlpool|131|}"]
+Samaritans [label = "{Samaritansl|132|}"]
+Man_Eaters [label = "{Man Eatersl|132|}"]
+Smuggling_Run [label = "{Smuggling Runl|132|}"]
+Thieves_in_the_Night [label = "{Thieves in the Night|134|}"]
+The_Devourer [label = "{The Devourer|135|}"]
+The_Sack_of_Maroa [label = "{The Sack of Maroa|136|}"]
+Marooned [label = "{Marooned|138|}"]
+Bear_Hunt [label = "{Bear Hunt|138|}"]
+Kehana_Dissenter [label = "{Kehana Dissenter|139|}"]
+The_Kraken_Sphere [label = "{The Kraken Sphere|139|}"]
+Trade_War [label = "{Trade War|139|}"]
+Hijack_the_Immortal [label = "{Hijack the Immortal!|140|}"]
+Debauchery [label = "{Debauchery|141|}"]
+Fish_Tale [label = "{Fish Tale|142|}"]
+Jombas_Ghost [label = "{Jomba's Ghost|144|}"]
+The_Sphere [label = "{The Sphere|145|}"]
+Attack_on_Brigandy_Bay [label = "{Attack on Brigandy Bay|147|}"]
+Bandits [label = "{Bandits|148|}"]
+Black_Robe [label = "{Black Robe|148|}"]
+She_Creatures [label = "{She-Creatures|148|}"]
+The_Restless_Dead [label = "{The Restless Dead|149|}"]
+Live_Cargo [label = "{Live Cargo|149|}"]
+LOllonaises_Vengeance [label = "{L'Ollonaise's Vengeance|150|}"]
+The_Terror [label = "{The Terror|151|}"]
+Domingos_Plea [label = "{Domingo's Plea|151|}"]
+The_Hunters [label = "{The Hunters|151|}"]
+Beyond_Kiera [label = "{Beyond Kiera|152|}"]
+Whaling [label = "{Whaling|152|}"]
+False_Papers [label = "{False Papers|152|}"]
+A_Debt_Repaid [label = "{A Debt Repaid|153|}"]
+Shallow_Grave [label = "{Shallow Grave|153|}"]
+Market_Potential [label = "{Market Potential|154|}"]
+Cracks_in_the_Stonework [label = "{Cracks in the Stonework|154|}"]
+Specimen_Collecting [label = "{Specimen Collecting|159|}"]
+A_New_Tragedy [label = "{A New Tragedy|159|}"]
+Bid_for_Freedom [label = "{Bid for Freedom|160|}"]
+The_Dark_Tower [label = "{The Dark Tower|160|}"]
+Crab_for_Dinner [label = "{Crab for Dinner|161|}"]
+Telling_the_Time [label = "{Telling the Time|162|}"]
+Something_Special [label = "{Something Special|163|}"]
+Sky_High [label = "{Sky High|164|}"]
+Vanishing_Farmers [label = "{Vanishing Farmers|165|}"]
+The_Second_Armada [label = "{The Second Armada|166|}"]
+White_Dove [label = "{White Dove|166|}"]
+Theres_Something_in_My_Soup [label = "{There's Something in My Soup|167|}"]
+Cartographic_Expedition [label = "{Cartographic Expedition|167|}"]
+A_Light_in_the_Dark  [label = "{A Light in the Dark|167|}"]
+All_Out_War  [label = "{All Out War|168|}"]
+The_Show_Must_Go_On [label = "{The Show Must Go On|169|}"]
+Glory_to_the_Brave [label = "{Glory to the Brave|170|}"]
+School_Bullies [label = "{School Bullies|170|}"]
+Fields_of_Fire [label = "{Fields of Fire|171|}"]
+Gone_Fishing [label = "{Gone Fishing|172|}"]
+Easy_Money [label = "{Easy Money|173|}"]
+Revenge [label = "{Revenge!|173|}"]
+Lonely_Parrot [label = "{Lonely Parrot|173|}"]
+The_Iron_Ship [label = "{The Iron Ship|173|}"]
+A_Traitors_Death [label = "{A Traitor's Death|174|}"]
+An_Artists_Dream [label = "{An Artist's Dream|175|}"]
+Gallery_Curators  [label = "{Gallery Curators|175|}"]
+False_Kidnapping  [label = "{False Kidnapping|176|}"]
+The_Black_Prince  [label = "{The Black Prince|177|}"]
+A_Toast_to_Death  [label = "{A Toast to Death|178|}"]
+Bounty [label = "{Bounty|178|}"]
+
+
+//***** Torath Ka
+Torath_Ka [shape=ellipse,fontsize=20,label="Torath Ka"]
+Torath_Ka -> Maiden_Voyage [color=gray,arrowsize=0]
+
+
+//***** The Teeth
+The_Teeth [shape=ellipse,fontsize=20,label="The Teeth"]
+The_Teeth -> Tressa_the_Red [color=gray,arrowsize=0]
+The_Teeth -> Wreck_of_the_Carcanus [color=gray,arrowsize=0]
+
+
+//***** The Kieran empire
+The_Kieran_Empire [shape=ellipse,fontsize=20,label="The Kieran Empire"]
+The_Kieran_Empire -> The_Fire_Mage [color=gray,arrowsize=0]
+The_Kieran_Empire -> The_Hunters [color=gray,arrowsize=0]
+
+Kiera [shape=ellipse,fontsize=15,label="Kiera"]
+The_Kieran_Empire -> Kiera [color=gray,arrowsize=0]
+Kiera -> She_Creatures [color=gray,arrowsize=0]
+Kiera -> The_Terror [color=gray,arrowsize=0]
+
+Paltos [shape=ellipse,fontsize=15,label="Paltos"]
+The_Kieran_Empire -> Paltos [color=gray,arrowsize=0]
+Paltos -> A_Light_in_the_Dark [color=gray,arrowsize=0]
+
+Yumas [shape=ellipse,fontsize=15,label="Yumas"]
+The_Kieran_Empire -> Yumas [color=gray,arrowsize=0]
+Yumas -> False_Kidnapping [color=gray,arrowsize=0]
+
+
+//******* The Flotsam Sea
+
+The_Flotsam_Sea [shape=ellipse,fontsize=20,label="The Flotsam Sea"]
+The_Flotsam_Sea -> Water_Trap [color=gray,arrowsize=0]
+The_Flotsam_Sea -> The_Curse_of_Redbeard_Rufus [color=gray,arrowsize=0]
+The_Flotsam_Sea -> The_Whirlpool [color=gray,arrowsize=0]
+
+
+//***** Cuwayo
+Cuwayo [shape=ellipse,fontsize=20,label="Cuwayo"]
+
+Baltimus [shape=ellipse,fontsize=15,label="Baltimus"]
+Cuwayo -> Baltimus [color=gray,arrowsize=0]
+Baltimus -> The_Juror [color=gray,arrowsize=0]
+Baltimus -> Debauchery [color=gray,arrowsize=0]
+Baltimus -> Live_Cargo [color=gray,arrowsize=0]
+Baltimus -> Specimen_Collecting [color=gray,arrowsize=0]
+Baltimus -> A_New_Tragedy [color=gray,arrowsize=0]
+Baltimus -> The_Dark_Tower [color=gray,arrowsize=0]
+Baltimus -> Hijack_the_Immortal [color=gray,arrowsize=0]
+
+
+Bristo [shape=ellipse,fontsize=15,label="Bristo"]
+Cuwayo -> Bristo [color=gray,arrowsize=0]
+Bristo -> Treasure_Map [color=gray,arrowsize=0]
+
+Deiking [shape=ellipse,fontsize=15,label="Deiking"]
+Cuwayo -> Deiking [color=gray,arrowsize=0]
+Deiking -> Smuggling_Run [color=gray,arrowsize=0]
+Deiking -> Thieves_in_the_Night [color=gray,arrowsize=0]
+Deiking -> Something_Special [color=gray,arrowsize=0]
+Deiking -> Sky_High [color=gray,arrowsize=0]
+
+Maroa [shape=ellipse,fontsize=15,label="Maroa"]
+Cuwayo -> Maroa [color=gray,arrowsize=0]
+Maroa -> The_Devourer [color=gray,arrowsize=0]
+Maroa -> The_Sack_of_Maroa [color=gray,arrowsize=0]
+
+Lanos [shape=ellipse,fontsize=15,label="Lanos"]
+Cuwayo -> Lanos [color=gray,arrowsize=0]
+Lanos -> Vanishing_Farmers [color=gray,arrowsize=0]
+
+Xaxa [shape=ellipse,fontsize=15,label="Xaxa"]
+Cuwayo -> Xaxa [color=gray,arrowsize=0]
+Xaxa -> An_Artists_Dream [color=gray,arrowsize=0]
+Xaxa -> Gallery_Curators [color=gray,arrowsize=0]
+
+Tulago [shape=ellipse,fontsize=15,label="Tulago"]
+Cuwayo -> Tulago [color=gray,arrowsize=0]
+Tulago -> The_Black_Prince [color=gray,arrowsize=0]
+
+
+
+//****** Sprith
+Sprith [shape=ellipse,fontsize=20,label="Sprith"]
+
+Wrasseton [shape=ellipse,fontsize=15,label="Wrasseton"]
+Sprith -> Wrasseton [color=gray,arrowsize=0]
+Wrasseton -> The_Prince [color=gray,arrowsize=0]
+Wrasseton -> A_Toast_to_Death [color=gray,arrowsize=0]
+Wrasseton -> Bounty [color=gray,arrowsize=0]
+
+Cuna [shape=ellipse,fontsize=15,label="Cuna"]
+Sprith -> Cuna [color=gray,arrowsize=0]
+Cuna -> Defend_the_Village [color=gray,arrowsize=0]
+
+Dunich [shape=ellipse,fontsize=15,label="Dunich"]
+Sprith -> Dunich [color=gray,arrowsize=0]
+Dunich -> Fish_Tale [color=gray,arrowsize=0]
+
+
+New_Madrid [shape=ellipse,fontsize=15,label="New Madrid"]
+Sprith -> New_Madrid [color=gray,arrowsize=0]
+New_Madrid -> Black_Robe [color=gray,arrowsize=0]
+New_Madrid -> The_Show_Must_Go_On [color=gray,arrowsize=0]
+New_Madrid -> Glory_to_the_Brave [color=gray,arrowsize=0]
+New_Madrid -> School_Bullies [color=gray,arrowsize=0]
+New_Madrid -> Hijack_the_Immortal [color=gray,arrowsize=0]
+
+
+Marsales [shape=ellipse,fontsize=15,label="Marsales"]
+Sprith -> Marsales [color=gray,arrowsize=0]
+Marsales -> The_Second_Armada [color=gray,arrowsize=0]
+Marsales -> White_Dove [color=gray,arrowsize=0]
+Marsales -> Theres_Something_in_My_Soup [color=gray,arrowsize=0]
+Marsales -> Cartographic_Expedition [color=gray,arrowsize=0]
+
+
+//****** The Pirate Sea
+The_Pirate_Sea [shape=ellipse,fontsize=20,label="The Pirate Sea"]
+The_Pirate_Sea -> Fit_for_a_King [color=gray,arrowsize=0]
+The_Pirate_Sea -> Heart_of_the_Archmage [color=gray,arrowsize=0]
+The_Pirate_Sea -> The_Butcher [color=gray,arrowsize=0]
+The_Pirate_Sea -> The_Low_Down [color=gray,arrowsize=0]
+The_Pirate_Sea -> The_Sphere [color=gray,arrowsize=0]
+The_Pirate_Sea -> All_Out_War [color=gray,arrowsize=0]
+The_Pirate_Sea -> A_Traitors_Death [color=gray,arrowsize=0]
+The_Pirate_Sea -> The_Black_Prince [color=gray,arrowsize=0]
+
+
+//****** The Devil's Cross
+The_Devils_Cross_Area [shape=ellipse,fontsize=20,label="The Devil's Cross"]
+The_Devils_Cross_Area -> The_Devils_Cross  [color=gray,arrowsize=0]
+
+//****** Any sea
+Any_sea [shape=ellipse,fontsize=20,label="Any sea"]
+Any_sea -> An_Unnatural_Storm [color=gray,arrowsize=0]
+Any_sea -> Ghost_Ship [color=gray,arrowsize=0]
+Any_sea -> Samaritans [color=gray,arrowsize=0]
+Any_sea -> Man_Eaters [color=gray,arrowsize=0]
+Any_sea -> The_Kraken_Sphere [color=gray,arrowsize=0]
+
+
+//****** Perck
+Perck [shape=ellipse,fontsize=20,label="Perck"]
+
+Azy_Cay [shape=ellipse,fontsize=15,label="Azy Cay"]
+Perck -> Azy_Cay [color=gray,arrowsize=0]
+Azy_Cay -> Treasure_for_the_Taking [color=gray,arrowsize=0]
+Azy_Cay -> Market_Potential [color=gray,arrowsize=0]
+
+Swindon [shape=ellipse,fontsize=15,label="Swindon"]
+Perck -> Swindon [color=gray,arrowsize=0]
+Swindon -> Gallows_Humor [color=gray,arrowsize=0]
+Swindon -> Rescue_Mission [color=gray,arrowsize=0]
+
+Shark_Bay [shape=ellipse,fontsize=15,label="Shark Bay"]
+Perck -> Shark_Bay [color=gray,arrowsize=0]
+Shark_Bay -> Gone_Fishing [color=gray,arrowsize=0]
+Shark_Bay -> Easy_Money [color=gray,arrowsize=0]
+Shark_Bay -> Revenge [color=gray,arrowsize=0]
+Shark_Bay -> Lonely_Parrot [color=gray,arrowsize=0]
+Shark_Bay -> The_Iron_Ship [color=gray,arrowsize=0]
+
+
+//***** Taratos
+Taratos [shape=ellipse,fontsize=20,label="Taratos"]
+Taratos -> Marooned [color=gray,arrowsize=0]
+
+Calibs_Rock [shape=ellipse,fontsize=15,label="Calib's Rock"]
+Taratos -> Calibs_Rock [color=gray,arrowsize=0]
+Calibs_Rock -> The_Money_Pit [color=gray,arrowsize=0]
+
+Caresia [shape=ellipse,fontsize=15,label="Caresia"]
+Taratos -> Caresia [color=gray,arrowsize=0]
+Caresia -> Polly_Want_Some_Treasure [color=gray,arrowsize=0]
+Caresia -> A_Debt_Repaid [color=gray,arrowsize=0]
+Caresia -> Trade_War [color=gray,arrowsize=0]
+Caresia -> False_Papers [color=gray,arrowsize=0]
+
+Jomba_Town [shape=ellipse,fontsize=15,label="Jomba Towns"]
+Taratos -> Jomba_Town [color=gray,arrowsize=0]
+Jomba_Town -> Jombas_Ghost [color=gray,arrowsize=0]
+Jomba_Town -> Shallow_Grave [color=gray,arrowsize=0]
+
+Tuck [shape=ellipse,fontsize=15,label="Tuck"]
+Taratos -> Tuck [color=gray,arrowsize=0]
+Tuck -> Telling_the_Time [color=gray,arrowsize=0]
+Tuck -> Fields_of_Fire [color=gray,arrowsize=0]
+
+
+//**** Arfk
+Arfk [shape=ellipse,fontsize=20,label="Arfk"]
+Arfk -> Bear_Hunt [color=gray,arrowsize=0]
+
+Kaja [shape=ellipse,fontsize=15,label="Kaja"]
+Arfk -> Kaja [color=gray,arrowsize=0]
+Kaja -> The_Arkanaus [color=gray,arrowsize=0]
+Kaja -> The_White_Whale [color=gray,arrowsize=0]
+Kaja -> Beyond_Kiera [color=gray,arrowsize=0]
+Kaja -> Whaling [color=gray,arrowsize=0]
+
+//**** Kehana Flumes
+Kehana_Flumes [shape=ellipse,fontsize=20,label="Kehana Flumes"]
+Kehana_Flumes -> Kehana_Dissenter [color=gray,arrowsize=0]
+
+
+//**** Brigandy Bay
+Brigandy_Bay [shape=ellipse,fontsize=20,label="Brigandy Bay"]
+Brigandy_Bay -> Attack_on_Brigandy_Bay [color=gray,arrowsize=0]
+Brigandy_Bay -> LOllonaises_Vengeance [color=gray,arrowsize=0]
+Brigandy_Bay -> Bid_for_Freedom [color=gray,arrowsize=0]
+Brigandy_Bay -> Crab_for_Dinner [color=gray,arrowsize=0]
+
+//**** Any island with wilds
+Any_island_with_wilds [shape=ellipse,fontsize=20,label="Any island with wilds"]
+Any_island_with_wilds -> Bandits [color=gray,arrowsize=0]
+
+
+//******  Kuwayway
+Kuwayway [shape=ellipse,fontsize=20,label="Kuwayway"]
+Kuwayway -> The_Restless_Dead [color=gray,arrowsize=0]
+
+Bluths_Crown [shape=ellipse,fontsize=15,label="Bluth's Crown"]
+Kuwayway -> Bluths_Crown [color=gray,arrowsize=0]
+Bluths_Crown -> Domingos_Plea [color=gray,arrowsize=0]
+
+Bluths_Town [shape=ellipse,fontsize=15,label="Bluth's Town"]
+Kuwayway -> Bluths_Town [color=gray,arrowsize=0]
+Bluths_Town -> Cracks_in_the_Stonework [color=gray,arrowsize=0]
+
+
+// other relations between tales
+Tressa_the_Red:e -> Wreck_of_the_Carcanus:e
+The_Low_Down:e -> The_Butcher:w
+The_Devourer:e -> The_Sack_of_Maroa:e
+Trade_War:e -> Hijack_the_Immortal:e
+The_Sphere:e -> The_Kraken_Sphere:e
+The_Second_Armada:e -> All_Out_War:e
+White_Dove:e -> All_Out_War:e
+Attack_on_Brigandy_Bay:e -> A_Traitors_Death:e
+
+
+
+// notes
+node [shape=note,color=gray,fillcolor=lightgoldenrodyellow]
+
+note1 [label="Play after first Golden Triangle is found"]
+note1 -> An_Unnatural_Storm [style=dashed,color=gray,arrowsize=0]
+
+note2 [label="Play this or this"]
+note2 -> The_Second_Armada [style=dashed,color=gray,arrowsize=0]
+note2 -> White_Dove [style=dashed,color=gray,arrowsize=0]
+
+// Ranks
+{ rank=min; Torath_Ka;The_Teeth;The_Kieran_Empire;The_Flotsam_Sea;Cuwayo;Sprith;The_Pirate_Sea;The_Devils_Cross_Area;Any_sea;Perck;Taratos;Arfk;Kehana_Flumes;Brigandy_Bay;Any_island_with_wilds;Kuwayway;}; 
+
+{rank=same;Kiera;Paltos;Yumas;Baltimus;Bristo;Deiking;Maroa;Lanos;Xaxa;Tulago;Wrasseton;Cuna;Dunich;New_Madrid;Marsales;Azy_Cay;Swindon;Shark_Bay;Calibs_Rock;Caresia;Jomba_Town;Tuck;Kaja;Bluths_Crown;Bluths_Town;};
+
+{rank=same;Wreck_of_the_Carcanus;The_Low_Down;The_Arkanaus;Ghost_Ship;The_White_Whale;Rescue_Mission;The_Whirlpool;Samaritans;Man_Eaters;Smuggling_Run;Thieves_in_the_Night;The_Devourer;The_Sack_of_Maroa;Marooned;Bear_Hunt;Kehana_Dissenter;The_Kraken_Sphere;Trade_War;Hijack_the_Immortal;Debauchery;Fish_Tale;Jombas_Ghost;The_Sphere;Attack_on_Brigandy_Bay;Bandits;Black_Robe;She_Creatures;The_Restless_Dead;Live_Cargo;LOllonaises_Vengeance;The_Terror;Domingos_Plea;The_Hunters;Beyond_Kiera;Whaling;False_Papers;A_Debt_Repaid;Shallow_Grave;Market_Potential;Cracks_in_the_Stonework;Specimen_Collecting;A_New_Tragedy;Bid_for_Freedom;The_Dark_Tower;Crab_for_Dinner;Telling_the_Time;Something_Special;Sky_High;Vanishing_Farmers;The_Second_Armada;White_Dove;Theres_Something_in_My_Soup;Cartographic_Expedition;A_Light_in_the_Dark;All_Out_War;The_Show_Must_Go_On;Glory_to_the_Brave;School_Bullies;Fields_of_Fire;Gone_Fishing;Easy_Money;Revenge;Lonely_Parrot;The_Iron_Ship;A_Traitors_Death;An_Artists_Dream;Gallery_Curators;False_Kidnapping;The_Black_Prince;A_Toast_to_Death;Bounty;};
+
+{rank=max;Maiden_Voyage;Tressa_the_Red;The_Fire_Mage;Water_Trap;The_Juror;The_Prince;Fit_for_a_King;Heart_of_the_Archmage;The_Devils_Cross};
+{rank=max;An_Unnatural_Storm;Treasure_for_the_Taking;The_Money_Pit;The_Butcher;Defend_the_Village;Treasure_Map;Polly_Want_Some_Treasure;Gallows_Humor;The_Curse_of_Redbeard_Rufus};
+
+{rank=sink;note1;note2};
+
+}
