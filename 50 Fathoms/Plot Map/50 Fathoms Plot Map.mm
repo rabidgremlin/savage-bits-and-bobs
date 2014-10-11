@@ -1,0 +1,435 @@
+<map version="0.9.0">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1380684641249" ID="ID_1380639342" MODIFIED="1380706602979" STYLE="fork" TEXT="50 Fathoms">
+<font BOLD="true" NAME="Calibri" SIZE="28"/>
+<node CREATED="1380700045932" ID="ID_1924391555" MODIFIED="1380706602979" POSITION="right" STYLE="bubble" TEXT="Any island with wilds">
+<font NAME="Calibri" SIZE="20"/>
+<node CREATED="1380704509230" ID="ID_348150783" MODIFIED="1380706602979" TEXT="Bandits - 148">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1380700231120" ID="ID_1112466175" MODIFIED="1380706602979" POSITION="right" STYLE="bubble" TEXT="Any Sea">
+<font NAME="Calibri" SIZE="20"/>
+<node CREATED="1380700308158" ID="ID_857110389" MODIFIED="1380706602979" TEXT="An Unnatural Storm - 152">
+<font NAME="Calibri" SIZE="12"/>
+<icon BUILTIN="messagebox_warning"/>
+<node BACKGROUND_COLOR="#ffffcc" CREATED="1380706482477" ID="ID_318924188" MODIFIED="1380706602932" STYLE="fork" TEXT="Play after first Golden Triangle is found">
+<font NAME="Calibri" SIZE="11"/>
+</node>
+</node>
+<node CREATED="1380700371457" ID="ID_1709296743" MODIFIED="1380706602932" TEXT="Ghost Ship - 129">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380700276276" ID="ID_1783418316" MODIFIED="1380706602932" TEXT="Man Eaters - 132">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380700382150" ID="ID_405461885" MODIFIED="1380706602932" TEXT="Samaritans - 132">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380700294318" ID="ID_1689627954" MODIFIED="1380706602932" TEXT="The Kraken Sphere - 139">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1380700056308" ID="ID_1510884727" MODIFIED="1380706602932" POSITION="left" STYLE="bubble" TEXT="Arfk - 59">
+<font NAME="Calibri" SIZE="20"/>
+<node CREATED="1380704632448" ID="ID_1457646682" MODIFIED="1380706602932" STYLE="bubble" TEXT="Bear Hunt - 138">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380704663583" ID="ID_1478185082" MODIFIED="1380706602932" TEXT="Kaja - 60">
+<font NAME="Calibri" SIZE="18"/>
+<node CREATED="1380704730814" ID="ID_494774350" MODIFIED="1380706602932" TEXT="Beyond Kiera - 152">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380704702099" ID="ID_870448301" MODIFIED="1380706602932" TEXT="The Arkanaus - 129">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380704718425" ID="ID_1943167560" MODIFIED="1380706602932" TEXT="The White Whale - 130">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380704742327" ID="ID_1477641139" MODIFIED="1380706602932" TEXT="Whaling - 152">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1380700240369" ID="ID_628491160" MODIFIED="1380706602932" POSITION="right" STYLE="bubble" TEXT="Brigandy Bay - 61">
+<font NAME="Calibri" SIZE="20"/>
+<node CREATED="1380700445305" ID="ID_1314047527" MODIFIED="1380706602932" TEXT="Attack on Brigandy Bay - 147">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380700419407" ID="ID_417984412" MODIFIED="1380706602932" TEXT="Bid for Freedom - 160">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380700430919" ID="ID_4198353" MODIFIED="1380706602932" TEXT="Crab for Dinner - 161">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380700461050" ID="ID_1392128166" MODIFIED="1380706602932" TEXT="L&apos;Ollonaise&apos;s Vengeance - 150">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1380700197668" ID="ID_923544302" MODIFIED="1380706602932" POSITION="right" STYLE="bubble" TEXT="Cuwayo - 64">
+<font NAME="Calibri" SIZE="20"/>
+<node CREATED="1380702636725" ID="ID_432556049" MODIFIED="1380706602932" TEXT="Baltimus - 64">
+<font NAME="Calibri" SIZE="18"/>
+<node CREATED="1380706091892" ID="ID_1701447640" MODIFIED="1380706602932" TEXT="A New Tragedy - 159">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380706053042" ID="ID_1866470693" MODIFIED="1380706602932" TEXT="Debauchery - 141">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380706068585" ID="ID_1494204444" MODIFIED="1380706602932" TEXT="Live Cargo - 149">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380706078818" ID="ID_1766049531" MODIFIED="1380706602932" TEXT="Specimen Collecting - 159">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380706028072" ID="ID_1432682454" MODIFIED="1380706602932" TEXT="The Dark Tower - 160">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node BACKGROUND_COLOR="#ffcccc" CREATED="1380702701607" ID="ID_1857903204" MODIFIED="1380706602932" TEXT="The Juror - 121">
+<font NAME="Calibri" SIZE="12"/>
+<icon BUILTIN="full-5"/>
+</node>
+</node>
+<node CREATED="1380702644757" ID="ID_1174549015" MODIFIED="1380706602932" TEXT="Bristo - 67">
+<font NAME="Calibri" SIZE="18"/>
+<node CREATED="1380706125916" ID="ID_518573655" MODIFIED="1380706602932" TEXT="Treasure Map - 171">
+<font NAME="Calibri" SIZE="12"/>
+<icon BUILTIN="messagebox_warning"/>
+</node>
+</node>
+<node CREATED="1380702662849" ID="ID_808441449" MODIFIED="1380706602932" TEXT="Deiking - 68">
+<font NAME="Calibri" SIZE="18"/>
+<node CREATED="1380706207738" ID="ID_604057856" MODIFIED="1380706602932" TEXT="Sky High - 164">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380706214459" ID="ID_1492981184" MODIFIED="1380706602932" TEXT="Smuggling Run - 132">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380706197926" ID="ID_502298544" MODIFIED="1380706602932" TEXT="Something Special - 163">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380706185132" ID="ID_208983425" MODIFIED="1380706602932" TEXT="Thieves in the Night - 134">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1380702670779" ID="ID_910059564" MODIFIED="1380706602932" TEXT="Lanos - 70">
+<font NAME="Calibri" SIZE="18"/>
+<node CREATED="1380706253900" ID="ID_1566896488" MODIFIED="1380706602932" TEXT="Vanishing Farmers - 165">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1380702622457" ID="ID_194730967" MODIFIED="1380706602932" TEXT="Maroa - 70">
+<font NAME="Calibri" SIZE="18"/>
+<node CREATED="1380705937919" ID="ID_782241709" MODIFIED="1380706602932" TEXT="The Devourer - 135">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380705954598" ID="ID_1420795021" MODIFIED="1380706602932" TEXT="The Sack of Maroa - 136">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1380702652195" ID="ID_1528395820" MODIFIED="1380706602932" TEXT="Tulago - 71">
+<font NAME="Calibri" SIZE="18"/>
+<node CREATED="1380706166545" ID="ID_426694990" MODIFIED="1380706602932" TEXT="The Black Prince - 177">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1380702630364" ID="ID_1859166403" MODIFIED="1380706602932" TEXT="Xaxa - 72">
+<font NAME="Calibri" SIZE="18"/>
+<node CREATED="1380705994658" ID="ID_513789004" MODIFIED="1380706602932" TEXT="An Artist&apos;s Dream - 175">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380705979225" ID="ID_693596591" MODIFIED="1380706602932" TEXT="Gallery Curators - 175">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1380704551526" ID="ID_882283740" MODIFIED="1380706602932" POSITION="left" STYLE="bubble" TEXT="Kehana Flumes -74">
+<font NAME="Calibri" SIZE="20"/>
+<node CREATED="1380704573046" ID="ID_1505947218" MODIFIED="1380706602932" STYLE="bubble" TEXT="Kehana Dissenter - 139">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1380700036246" ID="ID_893829116" MODIFIED="1380706602932" POSITION="left" STYLE="bubble" TEXT="Kuwayway - 81">
+<font NAME="Calibri" SIZE="20"/>
+</node>
+<node CREATED="1380700084946" ID="ID_688067281" MODIFIED="1380706602932" POSITION="left" STYLE="bubble" TEXT="Perck - 81">
+<font NAME="Calibri" SIZE="20"/>
+<node CREATED="1380704762083" ID="ID_916598728" MODIFIED="1380706602916" TEXT="Azy Cay - 81">
+<font NAME="Calibri" SIZE="18"/>
+<node CREATED="1380705030181" ID="ID_1312292510" MODIFIED="1380706602916" TEXT="Market Potential - 154">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380705008013" ID="ID_661227050" MODIFIED="1380706602916" TEXT="Treasure for the Taking - 154">
+<font NAME="Calibri" SIZE="12"/>
+<icon BUILTIN="messagebox_warning"/>
+</node>
+</node>
+<node CREATED="1380704769039" ID="ID_1817215207" MODIFIED="1380706602916" TEXT="Bluth&apos;s Crown - 82">
+<font NAME="Calibri" SIZE="18"/>
+<node CREATED="1380705063572" ID="ID_108704870" MODIFIED="1380706602916" TEXT="Cracks in the Stonework - 154">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380705048546" ID="ID_359927672" MODIFIED="1380706602916" TEXT="Domingo&apos;s Plea - 151">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1380704778539" ID="ID_85705408" MODIFIED="1380706602916" TEXT="Shark Bay - 83">
+<font NAME="Calibri" SIZE="18"/>
+<node CREATED="1380705097322" ID="ID_1951993045" MODIFIED="1380706602916" TEXT="Easy Money - 173">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380705087339" ID="ID_917694983" MODIFIED="1380706602916" TEXT="Gone Fishing - 172">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380705125827" ID="ID_1441242566" MODIFIED="1380706602916" TEXT="Lonely Parrot - 173">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380705114408" ID="ID_1749091252" MODIFIED="1380706602916" TEXT="Revenge! - 173">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380705137014" ID="ID_803757715" MODIFIED="1380706602916" TEXT="The Iron Ship - 173">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1380704785401" ID="ID_1261388906" MODIFIED="1380706602916" TEXT="Swindon -84">
+<font NAME="Calibri" SIZE="18"/>
+<node CREATED="1380705153069" ID="ID_1454653390" MODIFIED="1380706602916" TEXT="Gallows Humor - 179">
+<font NAME="Calibri" SIZE="12"/>
+<icon BUILTIN="messagebox_warning"/>
+</node>
+<node CREATED="1380705169569" ID="ID_123621973" MODIFIED="1380706602916" TEXT="Rescue Mission - 130">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1380700185841" ID="ID_217358875" MODIFIED="1380706602916" POSITION="right" STYLE="bubble" TEXT="Sprith - 86">
+<font NAME="Calibri" SIZE="20"/>
+<node CREATED="1380702804635" ID="ID_192004212" MODIFIED="1380706602916" TEXT="Cuna -86">
+<font NAME="Calibri" SIZE="18"/>
+<node CREATED="1380705872766" ID="ID_158518676" MODIFIED="1380706602916" TEXT="Defend the Village - 162">
+<font NAME="Calibri" SIZE="12"/>
+<icon BUILTIN="messagebox_warning"/>
+</node>
+</node>
+<node CREATED="1380702812806" ID="ID_1862476985" MODIFIED="1380706602916" TEXT="Dunich - 86">
+<font NAME="Calibri" SIZE="18"/>
+<node CREATED="1380705892273" ID="ID_1541275710" MODIFIED="1380706602916" TEXT="Fish Tale - 142">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1380702778367" ID="ID_957797692" MODIFIED="1380706602916" TEXT="Marsales - 86">
+<font NAME="Calibri" SIZE="18"/>
+<node CREATED="1380705647962" ID="ID_29042913" MODIFIED="1380706602916" TEXT="Cartographic Expedition - 167">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380705666312" ID="ID_1018798380" MODIFIED="1380706602916" TEXT="The Second Armada - 166">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380705622522" ID="ID_166561425" MODIFIED="1380706602916" TEXT="There&apos;s Something in My Soup - 167">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380705611650" ID="ID_1544515743" MODIFIED="1380706602916" TEXT="White Dove - 166">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1380702787539" ID="ID_593084646" MODIFIED="1380706602916" TEXT="New Madrid - 88">
+<font NAME="Calibri" SIZE="18"/>
+<node CREATED="1380705689644" ID="ID_1006603388" MODIFIED="1380706602916" TEXT="Black Robe - 148">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380705718450" ID="ID_1847639687" MODIFIED="1380706602916" TEXT="Glory to the Brave - 170">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380705756479" ID="ID_72622201" MODIFIED="1380706602901" TEXT="Hijack the Immortal! - 140">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380705732976" ID="ID_388145361" MODIFIED="1380706602901" TEXT="School Bullies - 170">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380705706262" ID="ID_1476807113" MODIFIED="1380706602901" TEXT="The Show Must Go On - 169">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1380702795837" ID="ID_1924400223" MODIFIED="1380706602901" TEXT="Wrasseton - 90">
+<font NAME="Calibri" SIZE="18"/>
+<node CREATED="1380705808184" ID="ID_41243081" MODIFIED="1380706602901" TEXT="A Toast to Death - 178">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380705820712" ID="ID_1070281224" MODIFIED="1380706602901" TEXT="Bounty - 178">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node BACKGROUND_COLOR="#ffcccc" CREATED="1380702838145" ID="ID_1004831093" MODIFIED="1380706602901" TEXT="The Prince - 121">
+<font NAME="Calibri" SIZE="12"/>
+<icon BUILTIN="full-6"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ccffcc" CREATED="1380684661091" ID="ID_481095139" MODIFIED="1380706602901" POSITION="right" STYLE="bubble" TEXT="Sunken Ruins - 97">
+<font NAME="Calibri" SIZE="20"/>
+</node>
+<node CREATED="1380700223197" ID="ID_168167683" MODIFIED="1380706602901" POSITION="right" STYLE="bubble" TEXT="Taratos - 91">
+<font NAME="Calibri" SIZE="20"/>
+<node CREATED="1380700950766" ID="ID_61651129" MODIFIED="1380706602901" TEXT="Calib&apos;s Rock - 91">
+<font NAME="Calibri" SIZE="18"/>
+<node CREATED="1380701006482" ID="ID_752630650" MODIFIED="1380706602901" TEXT="The Money Pit - 156">
+<font NAME="Calibri" SIZE="12"/>
+<icon BUILTIN="messagebox_warning"/>
+</node>
+</node>
+<node CREATED="1380700939049" ID="ID_968516722" MODIFIED="1380706602901" TEXT="Caresia - 91">
+<font NAME="Calibri" SIZE="18"/>
+<node CREATED="1380701360811" ID="ID_920217448" MODIFIED="1380706602901" TEXT="A Debit Repaid - 153">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380701343358" ID="ID_293466071" MODIFIED="1380706602901" TEXT="False Papers - 152">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380701315077" ID="ID_144955756" MODIFIED="1380706602901" TEXT="Polly Want Some Treasure? - 174">
+<font NAME="Calibri" SIZE="12"/>
+<icon BUILTIN="messagebox_warning"/>
+</node>
+<node CREATED="1380701272474" ID="ID_1462017025" MODIFIED="1380706602901" TEXT="Trade War - 139">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1380700922595" ID="ID_7513753" MODIFIED="1380706602901" TEXT="Jomba Town - 92">
+<font NAME="Calibri" SIZE="18"/>
+<node CREATED="1380701190713" ID="ID_311539015" MODIFIED="1380706602901" TEXT="Jomba&apos;s Ghost - 144">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380701210824" ID="ID_931926439" MODIFIED="1380706602901" TEXT="Shallow Grave - 153">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1380701075915" ID="ID_1745308179" MODIFIED="1380706602901" STYLE="bubble" TEXT="Marooned - 138">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380700932157" ID="ID_1120693556" MODIFIED="1380706602901" TEXT="Tuck - 93">
+<font NAME="Calibri" SIZE="18"/>
+<node CREATED="1380701250983" ID="ID_161936001" MODIFIED="1380706602901" TEXT="Fields of Fire - 171">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380701234466" ID="ID_1062078950" MODIFIED="1380706602901" TEXT="Telling the Time - 162">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1380699984250" ID="ID_1228176007" MODIFIED="1380706602901" POSITION="right" STYLE="bubble" TEXT="The Cold Sea - 64">
+<font NAME="Calibri" SIZE="20"/>
+</node>
+<node CREATED="1380700140801" ID="ID_1216750486" MODIFIED="1380706602901" POSITION="left" STYLE="bubble" TEXT="The Flotsam Sea - 72">
+<font NAME="Calibri" SIZE="20"/>
+<node CREATED="1380702545830" ID="ID_481016926" MODIFIED="1380706602901" TEXT="The Curse of Redbeard Rufus - 179">
+<font NAME="Calibri" SIZE="12"/>
+<icon BUILTIN="messagebox_warning"/>
+</node>
+<node CREATED="1380702454581" ID="ID_1347600033" MODIFIED="1380706602901" TEXT="The Devil&apos;s Cross - 73">
+<font NAME="Calibri" SIZE="18"/>
+<node BACKGROUND_COLOR="#ffcccc" CREATED="1380702473947" ID="ID_607406890" MODIFIED="1380706602901" TEXT="The Devil&apos;s Cross - 127">
+<font NAME="Calibri" SIZE="12"/>
+<icon BUILTIN="full-9"/>
+</node>
+</node>
+<node CREATED="1380702517660" ID="ID_494662543" MODIFIED="1380706602901" TEXT="The Whirlpool - 131">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node BACKGROUND_COLOR="#ffcccc" CREATED="1380702439148" ID="ID_621913899" MODIFIED="1380706602901" TEXT="Water Trap - 119">
+<font NAME="Calibri" SIZE="12"/>
+<icon BUILTIN="full-4"/>
+</node>
+</node>
+<node CREATED="1380700116908" ID="ID_1097004593" MODIFIED="1380706602901" POSITION="left" STYLE="bubble" TEXT="The Kieran Empire - 75">
+<font NAME="Calibri" SIZE="20"/>
+<node CREATED="1380702314543" ID="ID_109811316" MODIFIED="1380706602901" TEXT="Braven - 75">
+<font NAME="Calibri" SIZE="18"/>
+</node>
+<node CREATED="1380702335558" ID="ID_1327383635" MODIFIED="1380706602901" TEXT="Kiera - 76">
+<font NAME="Calibri" SIZE="18"/>
+</node>
+<node CREATED="1380702348397" ID="ID_1642446847" MODIFIED="1380706602901" TEXT="Paltos - 78">
+<font NAME="Calibri" SIZE="18"/>
+</node>
+<node CREATED="1380702289994" ID="ID_24649270" MODIFIED="1380706602901" TEXT="Terras - 79">
+<font NAME="Calibri" SIZE="18"/>
+</node>
+<node CREATED="1380702326742" ID="ID_1879770769" MODIFIED="1380706602901" TEXT="The Coaker Mountains - 75">
+<font NAME="Calibri" SIZE="18"/>
+</node>
+<node BACKGROUND_COLOR="#ffcccc" CREATED="1380702188655" ID="ID_1365343650" MODIFIED="1380706602901" TEXT="The Fire Mage - 116">
+<font NAME="Calibri" SIZE="12"/>
+<icon BUILTIN="full-3"/>
+</node>
+<node CREATED="1380705318557" ID="ID_392987633" MODIFIED="1380706602901" TEXT="The Hunters - 151">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380702299446" ID="ID_1420485555" MODIFIED="1380706602901" TEXT="Timin - 79">
+<font NAME="Calibri" SIZE="18"/>
+</node>
+<node CREATED="1380702308181" ID="ID_1343407037" MODIFIED="1380706602901" TEXT="Yumas - 80">
+<font NAME="Calibri" SIZE="18"/>
+<node CREATED="1380705296287" ID="ID_1115782201" MODIFIED="1380706602901" TEXT="False Kidnapping - 176">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1380699944901" ID="ID_611236631" MODIFIED="1380706602901" POSITION="left" STYLE="bubble" TEXT="The Kieran Sea - 80">
+<font NAME="Calibri" SIZE="20"/>
+<node CREATED="1380704483948" ID="ID_289023865" MODIFIED="1380706602901" TEXT="The Restless Dead - 149">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1380700211649" ID="ID_100548585" MODIFIED="1380706602901" POSITION="right" STYLE="bubble" TEXT="The Pirate Sea - 85">
+<font NAME="Calibri" SIZE="20"/>
+<node CREATED="1380706325961" ID="ID_283568142" MODIFIED="1380706602901" TEXT="A Traitor&apos;s Dream - 174">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380706292077" ID="ID_833101531" MODIFIED="1380706602901" TEXT="All Out War - 168">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node BACKGROUND_COLOR="#ffcccc" CREATED="1380701658029" ID="ID_1132718170" MODIFIED="1380706602901" TEXT="Fit for a King - 123">
+<font NAME="Calibri" SIZE="12"/>
+<icon BUILTIN="full-7"/>
+<node BACKGROUND_COLOR="#ffffcc" CREATED="1380706658663" ID="ID_820530552" MODIFIED="1380706719729" STYLE="fork" TEXT="Party should have an average rank of Veteran before they can find Blackbeard">
+<font NAME="SansSerif" SIZE="11"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcccc" CREATED="1380702902826" ID="ID_600889978" MODIFIED="1380706602901" TEXT="Heart of the Archmage - 125">
+<font NAME="Calibri" SIZE="12"/>
+<icon BUILTIN="full-8"/>
+</node>
+<node CREATED="1380706352713" ID="ID_393400363" MODIFIED="1380706602901" TEXT="The Butcher - 157">
+<font NAME="Calibri" SIZE="12"/>
+<icon BUILTIN="messagebox_warning"/>
+</node>
+<node CREATED="1380706299750" ID="ID_1349971032" MODIFIED="1380706602901" TEXT="The Low Dow - 157">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+<node CREATED="1380706312200" ID="ID_1163990171" MODIFIED="1380706602901" TEXT="The Sphere - 145">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1380700101357" ID="ID_600132123" MODIFIED="1380706602901" POSITION="left" STYLE="bubble" TEXT="The Teeth - 94">
+<font NAME="Calibri" SIZE="20"/>
+<node BACKGROUND_COLOR="#ffcccc" CREATED="1380701945463" ID="ID_632400078" MODIFIED="1380706602901" TEXT="Tressa the Red - 113">
+<font NAME="Calibri" SIZE="12"/>
+<icon BUILTIN="full-2"/>
+</node>
+<node CREATED="1380701960972" ID="ID_1861814382" MODIFIED="1380706602901" TEXT="Wreck of the Carcanus -151">
+<font NAME="Calibri" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1380700091387" ID="ID_1845230260" MODIFIED="1380706602901" POSITION="left" STYLE="bubble" TEXT="Torath Ka - 94">
+<font NAME="Calibri" SIZE="20"/>
+<node BACKGROUND_COLOR="#ffcccc" CREATED="1380701875033" ID="ID_270936017" MODIFIED="1380706602901" TEXT="Maiden Voyage - 110">
+<font NAME="Calibri" SIZE="12"/>
+<icon BUILTIN="full-1"/>
+</node>
+<node CREATED="1380701857034" ID="ID_647159436" MODIFIED="1380706602901" TEXT="Vittoria -95">
+<font NAME="Calibri" SIZE="18"/>
+</node>
+</node>
+<node CREATED="1380699928734" ID="ID_851580091" MODIFIED="1380706602901" POSITION="right" STYLE="bubble" TEXT="Whip Islands - 96">
+<font NAME="Calibri" SIZE="20"/>
+</node>
+</node>
+</map>
